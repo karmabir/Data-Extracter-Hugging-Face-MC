@@ -1,4 +1,4 @@
-HuggingFace Model Scraper
+# HuggingFace Model Scraper
 A Python tool for scraping and analyzing popular models from the Hugging Face Hub.
 Overview
 This script provides a simple way to gather information about machine learning models hosted on HuggingFace, including:
